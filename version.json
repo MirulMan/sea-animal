@@ -1,6 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
+  "name": "1.1.2",
   "file": "index.html",
-  "size": 3561703,
-  "sha256": "890cee05807c331b59431144a750654f709fecdbf3b04471e88136113e089414"
+  "size": 3562055,
+  "sha256": "4822b34820f929d830b7eb81bd949f7b463b1d500f102d323161840cc7ec11b2"
 }
