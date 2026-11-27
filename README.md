@@ -23,4 +23,6 @@ This game is shared so that all of us can see our children happy and smiling. **
 
 **Play:** https://mirulman.github.io/sea-animal/
 
+**Android app:** [download the latest version](https://github.com/MirulMan/sea-animal/releases/latest) (Android 8 or newer). Open `AdventureOfSeaAnimal.apk` from that page and allow installing if your phone asks. Game updates then arrive by themselves when the app is opened with internet.
+
 Created with the help of Claude AI. Voices made with ElevenLabs (https://elevenlabs.io).
